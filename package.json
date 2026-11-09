@@ -2,7 +2,7 @@
   "name": "lease-loop",
   "version": "0.1.0",
   "private": true,
-  "description": "Lease Loop hackathon starter: a walking skeleton for a circular-economy leasing app.",
+  "description": "Lease Loop: circular leasing for e-bikes, laptops and farm machines, from quote to second life.",
   "type": "module",
   "engines": {
     "node": ">=22"
